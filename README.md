@@ -23,8 +23,7 @@
 
 
 ## Contribution
-- Contributions are welcome! Check the 'CONTRIBUTING.md' file for guidelines.
 - Report issues and suggest enhancements using GitHub issues.
 
 ## Contact
-- For questions or feedback, reach out to [your email address].
+- For questions or feedback, reach out to yashpuri425@gmail.com
